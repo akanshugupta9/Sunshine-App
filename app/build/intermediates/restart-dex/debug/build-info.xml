@@ -4,22 +4,22 @@
     density="hdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="1682632309177"
+    timestamp="6009719102325"
     token="-5887174873971248096"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FIELD_ADDED" >
 
     <task
         name="javac"
-        duration="3807" />
+        duration="4276" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="217" />
+        duration="392" />
     <task
         name="verifier"
-        duration="76" />
+        duration="36" />
 
     <artifact
         location="C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
@@ -33,8 +33,8 @@
             type="MAIN" />
     </build>
     <build
-        timestamp="1682632309177"
-        verifier="COLD_SWAP_REQUESTED" >
+        timestamp="6009719102325"
+        verifier="FIELD_ADDED" >
         <artifact
             location="C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
             type="DEX" />

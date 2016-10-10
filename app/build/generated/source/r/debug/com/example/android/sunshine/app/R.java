@@ -1793,7 +1793,8 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f0b0042;
         public static final int action_mode_bar_stub=0x7f0b0041;
         public static final int action_mode_close_button=0x7f0b0026;
-        public static final int action_settings=0x7f0b0064;
+        public static final int action_refresh=0x7f0b0064;
+        public static final int action_settings=0x7f0b0065;
         public static final int activity_chooser_view_content=0x7f0b0027;
         public static final int add=0x7f0b0013;
         public static final int alertTitle=0x7f0b0033;
@@ -1930,7 +1931,8 @@ containing a value of this type.
         public static final int support_simple_spinner_dropdown_item=0x7f040028;
     }
     public static final class menu {
-        public static final int main=0x7f0d0000;
+        public static final int forecastfragment=0x7f0d0000;
+        public static final int main=0x7f0d0001;
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;
@@ -1967,9 +1969,10 @@ containing a value of this type.
         public static final int abc_shareactionprovider_share_with=0x7f060010;
         public static final int abc_shareactionprovider_share_with_application=0x7f060011;
         public static final int abc_toolbar_collapse_description=0x7f060012;
-        public static final int action_settings=0x7f060021;
-        public static final int app_name=0x7f060022;
-        public static final int hello_world=0x7f060023;
+        public static final int action_refresh=0x7f060021;
+        public static final int action_settings=0x7f060022;
+        public static final int app_name=0x7f060023;
+        public static final int hello_world=0x7f060024;
         public static final int search_menu_title=0x7f060013;
         public static final int status_bar_notification_info_overflow=0x7f060014;
     }
@@ -1978,8 +1981,6 @@ containing a value of this type.
         public static final int AlertDialog_AppCompat_Light=0x7f08008b;
         public static final int Animation_AppCompat_Dialog=0x7f08008c;
         public static final int Animation_AppCompat_DropDownUp=0x7f08008d;
-        /**  Customize your theme here. 
-         */
         public static final int AppTheme=0x7f08008e;
         public static final int Base_AlertDialog_AppCompat=0x7f08008f;
         public static final int Base_AlertDialog_AppCompat_Light=0x7f080090;

@@ -1,0 +1,7 @@
+#Mon Oct 10 22:10:00 IST 2016
+base.0=C\:\\Users\\FamilyAngel\\AndroidStudioProjects\\Sunshine\\AndroidStudioProjects\\Sunshine\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0ade157fdd68b1fee3051883786f4a2cc1056635
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\FamilyAngel\\AndroidStudioProjects\\Sunshine\\AndroidStudioProjects\\Sunshine\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_12d14d6dc5906b8a1cb9b90c0ec122f6d5604517\\classes.dex
+base.1=C\:\\Users\\FamilyAngel\\AndroidStudioProjects\\Sunshine\\AndroidStudioProjects\\Sunshine\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_12d14d6dc5906b8a1cb9b90c0ec122f6d5604517
+file.0=C\:\\Users\\FamilyAngel\\AndroidStudioProjects\\Sunshine\\AndroidStudioProjects\\Sunshine\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0ade157fdd68b1fee3051883786f4a2cc1056635\\classes.dex

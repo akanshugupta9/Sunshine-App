@@ -48,6 +48,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_e4d552d4cc28a6c26d1d63ff897ec4f736583d52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -61,7 +70,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="6f66ce06c40bbae1ebddf0f80660b413ea7bba63">
+        sha1="5cafcf2a178ee586d5521aa7c716e93c0ba8689f">
         <dex dex="C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_65143ddba42dbf4fba5d15031475e86726c71270\classes.dex" />
     </item>
     <item
@@ -79,7 +88,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="a46b2430d175eff120559065e6c0e7238e6fe3f6">
+        sha1="fb7753f91242453c0a8d04e2f9518f2432a4e393">
         <dex dex="C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6366753c80d91e6c94965fb0caf0b8caedaf6bbf\classes.dex" />
     </item>
     <item
@@ -120,12 +129,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_4101ffa37744fb913e99abfe27e926e0fefd3356\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
         <dex dex="C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ab0643c86a83ba10efd267e04c82986bef64c1b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_4965672c14ed33d3b96a40bd1f386b7f821ff131\classes.dex" />
     </item>
     <item
         is-multidex="true"

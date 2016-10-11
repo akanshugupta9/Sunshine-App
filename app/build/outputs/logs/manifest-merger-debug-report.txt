@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\src\main\AndroidManifest.xml:2:1-22:12
+ADDED from C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\src\main\AndroidManifest.xml:2:1-41:12
 	package
 		ADDED from C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\src\main\AndroidManifest.xml:3:5-47
 		INJECTED from C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\src\main\AndroidManifest.xml
@@ -18,7 +18,7 @@ ADDED from C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\src\main\Andr
 	android:name
 		ADDED from C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\src\main\AndroidManifest.xml:7:5-20:19
+ADDED from C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\src\main\AndroidManifest.xml:7:5-39:19
 MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:24.2.1] C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-compat:24.2.1] C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
@@ -28,6 +28,8 @@ MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\FamilyAngel\An
 MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
 MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:20:5-24:19
 	android:label
 		ADDED from C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\src\main\AndroidManifest.xml:10:9-41
 	android:supportsRtl
@@ -52,6 +54,35 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\src\main\AndroidManifest.xml:17:17-77
 	android:name
 		ADDED from C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.example.android.sunshine.app.DetailActivity
+ADDED from C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\src\main\AndroidManifest.xml:20:9-27:20
+	android:label
+		ADDED from C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\src\main\AndroidManifest.xml:22:13-36
+	android:parentActivityName
+		ADDED from C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\src\main\AndroidManifest.xml:23:13-55
+	android:name
+		ADDED from C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\src\main\AndroidManifest.xml:21:13-43
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\src\main\AndroidManifest.xml:24:13-26:81
+	android:value
+		ADDED from C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\src\main\AndroidManifest.xml:26:17-78
+	android:name
+		ADDED from C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\src\main\AndroidManifest.xml:25:17-63
+activity#com.example.android.sunshine.app.SettingsActivity
+ADDED from C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:label
+		ADDED from C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\src\main\AndroidManifest.xml:29:13-37
+	android:parentActivityName
+		ADDED from C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\src\main\AndroidManifest.xml:30:13-55
+	android:name
+		ADDED from C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\src\main\AndroidManifest.xml:28:19-83
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\src\main\AndroidManifest.xml:36:9-38:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\src\main\AndroidManifest.xml:38:13-66
+	android:name
+		ADDED from C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\src\main\AndroidManifest.xml:37:13-58
 uses-sdk
 INJECTED from C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:21:5-23:78
@@ -63,6 +94,9 @@ MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\FamilyAngel\An
 MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
 MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:18:5-42
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion

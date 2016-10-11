@@ -1,4 +1,4 @@
-#Tue Oct 11 01:31:46 IST 2016
+#Tue Oct 11 16:46:49 IST 2016
 base.0=C\:\\Users\\FamilyAngel\\AndroidStudioProjects\\Sunshine\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6366753c80d91e6c94965fb0caf0b8caedaf6bbf
 renamed.1=classes.dex
 renamed.0=classes2.dex

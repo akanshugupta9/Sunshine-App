@@ -4,47 +4,40 @@
     density="hdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="6009719102325"
-    token="-5887174873971248096"
-    verifier="FIELD_ADDED" >
+    timestamp="56723242582175"
+    token="9019711808547428659"
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="4276" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="392" />
+        duration="0" />
     <task
         name="verifier"
-        duration="36" />
+        duration="0" />
 
     <artifact
-        location="C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-        type="DEX" />
+        location="C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
-        timestamp="1408760656293"
-        verifier="MANIFEST_FILE_CHANGE" >
+        timestamp="56213092743937"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="6009719102325"
-        verifier="FIELD_ADDED" >
-        <artifact
-            location="C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="116450275270313"
+        timestamp="56723242582175"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\AndroidStudioProjects\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-            type="DEX" />
+            location="C:\Users\FamilyAngel\AndroidStudioProjects\Sunshine\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

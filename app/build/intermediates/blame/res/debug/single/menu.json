@@ -8,7 +8,11 @@
         "source": "C:\\Users\\FamilyAngel\\AndroidStudioProjects\\Sunshine\\app\\src\\main\\res\\menu\\forecastfragment.xml"
     },
     {
-        "merged": "C:\\Users\\FamilyAngel\\AndroidStudioProjects\\Sunshine\\AndroidStudioProjects\\Sunshine\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "C:\\Users\\FamilyAngel\\AndroidStudioProjects\\Sunshine\\AndroidStudioProjects\\Sunshine\\app\\src\\main\\res\\menu\\main.xml"
+        "merged": "C:\\Users\\FamilyAngel\\AndroidStudioProjects\\Sunshine\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detail.xml",
+        "source": "C:\\Users\\FamilyAngel\\AndroidStudioProjects\\Sunshine\\app\\src\\main\\res\\menu\\detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\FamilyAngel\\AndroidStudioProjects\\Sunshine\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detailfragment.xml",
+        "source": "C:\\Users\\FamilyAngel\\AndroidStudioProjects\\Sunshine\\app\\src\\main\\res\\menu\\detailfragment.xml"
     }
 ]
